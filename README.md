@@ -1,7 +1,7 @@
 # MLOPS-Project-on-Wine-Quality
 
 ![MLflow](https://github.com/BergerPerkins/MLOPS-Project-on-Wine-Quality/assets/102247955/23708052-2589-4959-bfdc-ab89ad47d779)
-
+![mlflowimg](https://github.com/BergerPerkins/MLOPS-Project-on-Wine-Quality/assets/102247955/a7c862ee-a930-443f-8e5f-86b0779804cb)
 ## Workflows
 
 1. pdate config.yaml
