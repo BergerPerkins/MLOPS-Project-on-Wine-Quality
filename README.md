@@ -12,3 +12,22 @@
 7. update the pipeline
 8. update the main.py
 9. update the app.py
+
+
+
+### dagshub
+
+MLFLOW_TRACKING_URI=https://dagshub.com/BergerPerkins/MLOPS-Project-on-Wine-Quality.mlflow \
+MLFLOW_TRACKING_USERNAME=BergerPerkins \
+MLFLOW_TRACKING_PASSWORD=49bec7ba952db1fc76f189266d42a4d14cfdfeee \
+python script.py
+
+```bash
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/BergerPerkins/MLOPS-Project-on-Wine-Quality.mlflow
+
+export MLFLOW_TRACKING_USERNAME=BergerPerkins
+
+export MLFLOW_TRACKING_PASSWORD=49bec7ba952db1fc76f189266d42a4d14cfdfeee
+
+```

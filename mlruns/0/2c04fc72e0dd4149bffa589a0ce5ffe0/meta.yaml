@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/C_Drive/MLops%20project%20in%20wine%20quality/MLOPS-Project-on-Wine-Quality/mlruns/0/2c04fc72e0dd4149bffa589a0ce5ffe0/artifacts
+end_time: 1697540809556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c04fc72e0dd4149bffa589a0ce5ffe0
+run_name: resilient-ram-818
+run_uuid: 2c04fc72e0dd4149bffa589a0ce5ffe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697540799463
+status: 3
+tags: []
+user_id: Berger

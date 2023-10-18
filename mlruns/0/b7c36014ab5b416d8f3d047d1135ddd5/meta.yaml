@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/C_Drive/MLops%20project%20in%20wine%20quality/MLOPS-Project-on-Wine-Quality/mlruns/0/b7c36014ab5b416d8f3d047d1135ddd5/artifacts
+end_time: 1697564735002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7c36014ab5b416d8f3d047d1135ddd5
+run_name: selective-bee-455
+run_uuid: b7c36014ab5b416d8f3d047d1135ddd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697564722742
+status: 3
+tags: []
+user_id: Berger
