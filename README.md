@@ -1,5 +1,6 @@
 # MLOPS-Project-on-Wine-Quality
 
+![MLflow](https://github.com/BergerPerkins/MLOPS-Project-on-Wine-Quality/assets/102247955/23708052-2589-4959-bfdc-ab89ad47d779)
 
 ## Workflows
 
